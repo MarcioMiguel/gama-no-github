@@ -1,0 +1,1 @@
+Estou achando tudo muito bom, a didática, as apresentações, sinto que estou bem mais familiarizado com o git.
